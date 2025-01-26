@@ -1,0 +1,4 @@
+app:
+  transaction:
+    statistics:
+      window-seconds: 60  # Default value, can be overridden via environment variables or command line arguments
